@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 23375730653491745872deeec7dffc80
+  m_SerializeEntries:
+  - m_GUID: 31b1d23bc761b6b46ba660c84f99aaa1
+    m_Address: Assets/Obic_Studio/Stylized_Military_Vehicle_Pack/Vehicles/Materials/Stylized_Military_Vehicle_Pack_01.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c484f40b8bb05048abf7caab3ac9dde
+    m_Address: Assets/Obic_Studio/Stylized_Military_Vehicle_Pack/Vehicles/Materials/TopCannon.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7dbb4771e23574743be17eb2f59ea869, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e774985e434c2d04c8cfde51d36d92f9, type: 2}
+    - {fileID: 11400000, guid: aa77daafb0d36db4090043e0a8f2aad9, type: 2}
